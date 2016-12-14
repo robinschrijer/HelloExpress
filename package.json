@@ -1,22 +1,22 @@
 {
-  "name": "helloexpress",
-  "version": "1.0.0",
-  "description": "A app to learn to deplop a node express site on a raspberryPi 3",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/robinschrijer/HelloExpress.git"
-  },
-  "author": "Robin Schrijer",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/robinschrijer/HelloExpress/issues"
-  },
-  "homepage": "https://github.com/robinschrijer/HelloExpress#readme",
-  "dependencies": {
-    "express": "^4.14.0"
-  }
+    "name": "helloexpress",
+    "version": "1.0.0",
+    "description": "A app to learn to deplop a node express site on a raspberryPi 3",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:robinschrijer/HelloExpress.git"
+    },
+    "author": "Robin Schrijer",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/robinschrijer/HelloExpress/issues"
+    },
+    "homepage": "https://github.com/robinschrijer/HelloExpress#readme",
+    "dependencies": {
+        "express": "^4.14.0"
+    }
 }
